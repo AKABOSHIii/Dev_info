@@ -1,0 +1,173 @@
+h2{
+color: aquamarine; 
+font-size: 50px;
+ text-align: center;
+ }
+.logo{
+float: left;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-shrink:0;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+/* Kay Ilao itoh*/
+.box1{
+    position:relative;
+    width: 30%;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(123, 240, 129);
+    padding: 40px;
+    border-radius:30px;
+}
+.MATTER{
+    float:right;
+    width:40%;
+   
+}
+#matt{
+    font-size:20px;
+}
+
+
+
+/* kay xyrel */
+
+.box2{
+    position:relative;
+    width: 30%;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(123, 240, 129);
+    padding: 40px;
+    border-radius:30px;
+}
+.CABAYAN{
+    float:right;
+    width:30%;
+   
+}
+#xyre{
+    font-size:20px;
+}
+
+
+/* KAY KFIR */
+.box3{
+    position:relative;
+    width: 30%;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(123, 240, 129);
+    padding: 40px;
+    border-radius:30px;
+}
+.DECASTRO{
+    float:right;
+    width:90%;
+   
+}
+#kfir{
+    font-size:20px;
+}
+
+/* Kay PILAR*/
+.box4{
+    position:relative;
+    width: 30%;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(123, 240, 129);
+    padding: 40px;
+    border-radius:30px;
+}
+.PILAR{
+    float:right;
+    width:30%;
+   
+}
+#kurt{
+    font-size:20px;
+}
+
+
+/* Kay SIPAT*/
+.box5{
+    position:relative;
+    width: 30%;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(123, 240, 129);
+    padding: 40px;
+    border-radius:30px;
+}
+.SIPAT{
+    float:right;
+    width:30%;
+   
+}
+#rey{
+    font-size:20px;
+}
+
+
+/* Kay Lalic*/
+.box6{
+    position:relative;
+    width: 30%;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(123, 240, 129);
+    padding: 40px;
+    border-radius:30px;
+}
+.LALIC{
+    float:right;
+    width:30%;
+   
+}
+#paulo{
+    font-size:20px;
+}
+
+
+
+/* Kay hanz*/
+.box7{
+    position:relative;
+    width: 30%;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(123, 240, 129);
+    padding: 40px;
+    border-radius:30px;
+}
+.PIZARRO{
+    float:right;
+    width:30%;
+   
+}
+#hanz{
+    font-size:20px;
+}
+
